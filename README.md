@@ -1,7 +1,7 @@
 # sample_animation
 
 A new Flutter project.
-
+![A Flutter Resources App using Futter ](https://github.com/abair341/flutter_sample_animation/blob/master/animated_img.jpg?raw=true)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
